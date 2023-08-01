@@ -1,3 +1,4 @@
+#ACCESS THE STOCKS PART OF THE SYSTEM
 import pandas as pd
 import matplotlib.pyplot as py
 st={'2019-06-08':1500,'2019-07-09':1460 ,'2019-10-08':1510,
