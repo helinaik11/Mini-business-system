@@ -1,3 +1,4 @@
+#ACCESS THE EMPLOYEE DATA PART OF THE SYSTEM
 import pandas as pd
 d={'EMP NAME':['Ms. A.R. Swaminathan','Ms. Kuldeep Singh','Mr. Jignesh Bhatt',
                'Mr. Krushiv Chanu','Ms. Rochel Perez','Mr. George Smith',
