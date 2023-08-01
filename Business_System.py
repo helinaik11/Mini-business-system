@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS ALL THE OTHER FILES IN THE REPOSITORY (CONSOLIDATED VERSION)
 import pandas as pd
 import matplotlib.pyplot as py
 u='TECHZILLION INC.'
